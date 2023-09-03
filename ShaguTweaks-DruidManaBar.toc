@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: ShaguTweaks-DruidManaBar
+## Notes: Adds ShaguTweaks style changes to DruidManaBar.
+## RequiredDeps: ShaguTweaks, DruidManaBar
+ShaguTweaks-DruidManaBar.lua
